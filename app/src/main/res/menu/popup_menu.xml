@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/popup_item1"
+        android:orderInCategory="30"
+        android:title="Use in next calculation" />
+
+    <item
+        android:id="@+id/popup_item2"
+        android:orderInCategory="90"
+        android:title="Save as .txt file" />
+
+    <item
+        android:id="@+id/popup_item3"
+        android:orderInCategory="150"
+        android:title="Clear" />
+</menu>

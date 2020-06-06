@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="invalid_format">Invalid calculation format. Please try again.</string>
+    <string name="only_one_operator_msg">Only one operator (+, -, *, /) is allowed per calculation. Please try again.</string>
+    <string name="cant_start_operator_msg">Calculation can\'t start with operator (+, -, *, /). Please try again.</string>
+    <string name="use_in_next_msg">Use in next calculation</string>
+    <string name="save_msg">Save as .txt file</string>
+    <string name="clear_msg">Clear</string>
+    <string name="saved_to_msg">\"Saved to \"</string>
+</resources>
